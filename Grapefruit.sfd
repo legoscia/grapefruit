@@ -1,0 +1,164 @@
+SplineFontDB: 3.0
+FontName: Grapefruit
+FullName: Grapefruit
+FamilyName: Grapefruit
+Weight: Medium
+Copyright: Created by Magnus Henoch with FontForge 2.0 (http://fontforge.sf.net).\n\nImages taken from http://xkcd.com/388/. Like that comic, this font is licensed under the Creative Commons Attribution-NonCommercial 2.5 License (http://creativecommons.org/licenses/by-nc/2.5/).
+UComments: "2010-11-6: Created." 
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+NeedsXUIDChange: 1
+XUID: [1021 30 431906901 9294108]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1289063047
+ModificationTime: 1289081543
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+DEI: 91125
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -24
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 127744 16 12
+BeginChars: 1114112 1
+
+StartChar: u1F345
+Encoding: 127813 127813 0
+Width: 1000
+VWidth: 0
+Flags: HO
+LayerCount: 2
+Back
+Image: 29 23 3 116 0 ffffffff 0 800 34.4828 34.2609 0
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!rr<$!rr<$!rr<$!rr<$!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!
+rr<$!s8W-!s8W-!s8W-!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!
+rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!
+rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!
+rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!
+rr<$!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!
+s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!
+s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!rr<$!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!rr<$!rr<$!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!
+rr<$!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!rr<$!rr<$!rr<$!rr<$!s8W-!s8W-!rr<$!rr<$!rr<$!rr<$!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+EndImage
+SplineSet
+249.241 555.617 m 0
+ -110.552 377.872 405.275 12 688.138 156.033 c 0
+ 1147.79 388.869 482.759 673.338 249.241 555.617 c 0
+517.241 765.739 m 1
+ 620.689 657.372 862.069 571.651 906.621 421.657 c 0
+ 1080.07 -181.334 -370.173 38.3467 181.518 578.881 c 0
+ 271.275 662.957 413.793 689.714 517.241 765.739 c 1
+EndSplineSet
+Fore
+SplineSet
+336 633 m 17
+ 343 629 351 627 358 627 c 0
+ 422 627 498 762 535 762 c 0
+ 548 762 557 746 558 702 c 9
+ 573 676 571 652 597 636 c 24
+ 645 607 682 614 735 594 c 24
+ 772 580 793 572 825 549 c 24
+ 853 529 867 515 885 486 c 24
+ 910 446 929 422 933 375 c 16
+ 933 369 934 363 934 358 c 0
+ 934 317 921 289 903 249 c 8
+ 883 206 867 181 831 150 c 24
+ 803 126 779 126 744 114 c 24
+ 687 94 656 77 597 69 c 16
+ 591 68 586 68 581 68 c 0
+ 556 68 538 77 510 81 c 1
+ 461 75 431 62 387 62 c 0
+ 381 62 375 63 369 63 c 8
+ 309 67 272 73 219 102 c 24
+ 173 127 152 152 123 195 c 16
+ 87 249 54 283 54 348 c 0
+ 54 349 54 350 54 351 c 8
+ 55 423 88 461 126 522 c 24
+ 152 564 172 589 216 612 c 24
+ 258 634 289 625 336 633 c 17
+507 492 m 25
+ 474 513 453 507 423 546 c 0
+ 407 567 398 579 375 588 c 16
+ 357 594 343 597 328 597 c 0
+ 318 597 307 596 294 594 c 8
+ 269 591 249 591 234 570 c 0
+ 200 522 181 520 153 480 c 0
+ 127 444 119 400 119 365 c 0
+ 119 359 120 353 120 348 c 0
+ 123 314 167 279 177 237 c 8
+ 184 210 207 204 231 189 c 24
+ 260 170 278 158 312 150 c 16
+ 372 136 415 116 466 116 c 0
+ 483 116 500 118 519 123 c 8
+ 654 159 699 105 837 288 c 0
+ 856 314 862 336 862 366 c 0
+ 862 372 861 378 861 384 c 8
+ 859 425 856 453 828 483 c 24
+ 797 516 766 518 723 531 c 16
+ 677 545 647 563 606 563 c 0
+ 597 563 588 563 579 561 c 8
+ 541 554 535 519 507 492 c 25
+EndSplineSet
+Validated: 1
+EndChar
+EndChars
+EndSplineFont

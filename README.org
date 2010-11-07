@@ -1,0 +1,55 @@
+* The Grapefruit font
+This font contains depictions of various fruit characters that were
+added to Unicode in version 6.0.  The depictions were copied and
+adapted from http://xkcd.com/388/.
+
+* Copyright and license
+Copyright © 2008 Randall Munroe
+Copyright © 2010 Magnus Henoch
+
+Like the comic, this font is licensed under the Creative Commons
+Attribution-NonCommercial 2.5 License
+(http://creativecommons.org/licenses/by-nc/2.5/).
+
+* Fruit assortment
+** Unicode
+Fruit and vegetable symbols in Unicode.  A check mark means that the
+fruit is present in the comic.
+- [X] 1F345 🍅 TOMATO
+- [ ] 1F346 🍆 AUBERGINE
+- [X] 1F347 🍇 GRAPES
+- [ ] 1F348 🍈 MELON
+- [X] 1F349 🍉 WATERMELON
+- [ ] 1F34A 🍊 TANGERINE
+- [X] 1F34B 🍋 LEMON
+- [X] 1F34C 🍌 BANANA
+- [X] 1F34D 🍍 PINEAPPLE
+- [X] 1F34E 🍎 RED APPLE
+- [X] 1F34F 🍏 GREEN APPLE
+- [X] 1F350 🍐 PEAR
+- [X] 1F351 🍑 PEACH
+- [X] 1F352 🍒 CHERRIES
+- [X] 1F353 🍓 STRAWBERRY
+** XKCD
+Fruit and vegetable symbols in the XKCD comic.  A check mark means
+that the fruit is present in Unicode.  Notably, the grapefruit, that
+names both the comic and the font, is missing in Unicode.
+- [X] pineapple
+- [ ] pomegranate
+- [ ] orange
+- [X] watermelon
+- [ ] grapefruit
+- [X] lemon
+- [X] grapes
+- [X] banana
+- [X] tomato
+- [X] cherry
+- [ ] plum
+- [X] pear
+- [X] peach
+- [X] strawberry
+- [ ] blueberry
+- [X] green apple
+- [X] red apple
+
+
