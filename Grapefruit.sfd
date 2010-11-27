@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1289063047
-ModificationTime: 1290294213
+ModificationTime: 1290876145
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -43,7 +43,7 @@ DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 127744 16 12
-BeginChars: 1114112 6
+BeginChars: 1114112 7
 
 StartChar: u1F345
 Encoding: 127813 127813 0
@@ -1090,7 +1090,7 @@ StartChar: u1F34D
 Encoding: 127821 127821 5
 Width: 556
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 Image: 32 63 3 128 0 ffffffff 0 800 15.873 15.873 0
@@ -1301,6 +1301,96 @@ SplineSet
  254 784 l 1
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: u1F34E
+Encoding: 127822 127822 6
+Width: 799
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Back
+Image: 25 30 3 100 0 ffffffff 0 800 33.3333 33.3333 0
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!s8W-!s8W-!rr<$!rr<$!s8W-!rr<$!rr<$!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!
+rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!rr<$!
+rr<$!rr<$!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!rr<$!rr<$!rr<$!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!
+rr<$!rr<$!rr<$!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!
+rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!
+s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!
+s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!
+s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!
+s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!
+rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!
+rr<$!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!
+rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+rr<$!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+
+EndImage
+Fore
+SplineSet
+267 0 m 1
+ 299 -80 345 -112 395 -112 c 0
+ 536 -112 712 141 712 309 c 0
+ 712 391 669 453 559 453 c 0
+ 524 453 482 447 433 433 c 1
+ 406 561 359 611 307 611 c 0
+ 195 611 87 379 87 201 c 0
+ 87 88 116 -0 261 -0 c 0
+ 263 -0 265 0 267 0 c 1
+509 494 m 1
+ 600 500 l 1
+ 714 456 760 369 760 272 c 0
+ 760 92 603 -125 433 -172 c 0
+ 405 -179 379 -183 353 -183 c 0
+ 142 -183 29 75 29 303 c 0
+ 29 403 51 497 95 562 c 1
+ 131 614 219 683 305 683 c 0
+ 370 683 434 643 474 524 c 1
+ 501 665 563 708 678 768 c 1
+ 696 732 l 1
+ 582 672 531 637 509 494 c 1
+482 496 m 1
+ 483 492 l 1
+ 501 493 l 1
+ 482 496 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
