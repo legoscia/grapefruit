@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1289063047
-ModificationTime: 1290898603
+ModificationTime: 1290900244
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -43,7 +43,7 @@ DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 127744 16 12
-BeginChars: 1114112 11
+BeginChars: 1114112 12
 
 StartChar: u1F345
 Encoding: 127813 127813 0
@@ -1612,7 +1612,7 @@ StartChar: u1F352
 Encoding: 127826 127826 10
 Width: 856
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 Image: 20 24 3 80 0 ffffffff 0 800 41.6667 41.6667 0
@@ -1696,6 +1696,79 @@ SplineSet
  231 -60 252 -54 281 -54 c 0
  288 -54 296 -54 303 -55 c 0
 EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1F353
+Encoding: 127827 127827 11
+Width: 838
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Back
+Image: 14 17 3 56 0 ffffffff 0 800 58.8235 58.8235 0
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!rr<$!rr<$!rr<$!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!
+rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!
+s8W-!s8W-!rr<$!rr<$!rr<$!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!s8W-!s8W-!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!rr<$!rr<$!rr<$!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+EndImage
+Fore
+SplineSet
+366 -43 m 0
+ 433 -43 413 -18 456 16 c 0
+ 503 53 530 69 563 114 c 0
+ 625 198 676 235 688 330 c 0
+ 689 335 689 341 689 346 c 0
+ 689 403 653 453 622 468 c 0
+ 619 469 617 469 615 469 c 0
+ 599 469 593 438 579 438 c 0
+ 577 438 575 438 573 438 c 0
+ 557 438 536 436 528 396 c 1
+ 514 411 503 420 491 420 c 0
+ 478 420 465 411 447 390 c 1
+ 440 420 427 428 413 428 c 0
+ 393 428 372 411 367 411 c 0
+ 366 411 l 0
+ 344 441 347 485 323 485 c 0
+ 317 485 309 482 297 474 c 1
+ 306 513 316 539 316 551 c 0
+ 316 556 314 558 310 558 c 0
+ 298 558 263 558 227 523 c 0
+ 192 489 165 451 165 403 c 0
+ 165 392 166 380 169 368 c 0
+ 217 182 199 -43 366 -43 c 0
+131 358 m 0
+ 127 374 125 389 125 403 c 0
+ 125 462 156 510 199 551 c 0
+ 229 581 266 598 310 598 c 0
+ 329 598 349 595 368 589 c 0
+ 419 575 425 529 445 495 c 1
+ 446 495 l 1
+ 552 711 l 1
+ 588 693 l 1
+ 496 507 l 1
+ 519 514 541 521 568 521 c 0
+ 590 521 613 516 638 504 c 0
+ 689 481 729 412 729 346 c 0
+ 729 339 729 332 728 324 c 0
+ 714 219 657 174 595 90 c 0
+ 558 40 526 19 480 -16 c 0
+ 448 -41 454 -83 366 -83 c 0
+ 161 -83 176 179 131 358 c 0
+EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
