@@ -53,3 +53,9 @@ names both the comic and the font, is missing in Unicode.
 - [X] red apple
 
 
+* Red vs green apples
+Both the comic and Unicode contain both red and green apples.
+However, it's impossible to use different colours for different
+glyphs, and furthermore the two fruits look exactly the same in the
+comic except for the colour.  Therefore I decided to make the green
+apple be a mirrored version of the red apple.
