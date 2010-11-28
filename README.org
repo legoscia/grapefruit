@@ -11,6 +11,15 @@ Like the comic, this font is licensed under the Creative Commons
 Attribution-NonCommercial 2.5 License
 (http://creativecommons.org/licenses/by-nc/2.5/).
 
+* Installing
+You can run =make install=, which will install Grapefruit.ttf into
+=/usr/local/share/fonts= (unless you passed other options to the
+configure script).
+
+To install the font just for one user, copy Grapefruit.ttf into
+=~/.fonts=, or some other directory listed in
+=/etc/fonts/fonts.conf=.
+
 * Fruit assortment
 ** Unicode
 Fruit and vegetable symbols in Unicode.  A check mark means that the
