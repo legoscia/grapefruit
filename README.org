@@ -1,7 +1,7 @@
 * The Grapefruit font
 This font contains depictions of various fruit characters that were
 added to Unicode in version 6.0.  The depictions were copied and
-adapted from http://xkcd.com/388/.
+adapted from [[http://xkcd.com/388/]].
 
 * Copyright and license
 Copyright © 2008 Randall Munroe
@@ -9,7 +9,7 @@ Copyright © 2010 Magnus Henoch
 
 Like the comic, this font is licensed under the Creative Commons
 Attribution-NonCommercial 2.5 License
-(http://creativecommons.org/licenses/by-nc/2.5/).
+([[http://creativecommons.org/licenses/by-nc/2.5/]]).
 
 * Installing
 You can run =make install=, which will install Grapefruit.ttf into
