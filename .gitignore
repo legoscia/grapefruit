@@ -1,0 +1,10 @@
+configure
+config.*
+*.tar.*
+*.zip
+install-sh
+missing
+Makefile
+Makefile.in
+aclocal.m4
+*.ttf
