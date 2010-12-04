@@ -3,6 +3,9 @@ This font contains depictions of various fruit characters that were
 added to Unicode in version 6.0.  The depictions were copied and
 adapted from [[http://xkcd.com/388/]].
 
+There is a web page at [[http://xn--9dbdkw.se/grapefruit/]], and the
+source code lives at [[http://github.com/legoscia/grapefruit]].
+
 * Copyright and license
 Copyright © 2008 Randall Munroe <http://xkcd.com/388/>
 Copyright © 2010 Magnus Henoch <magnus.henoch@gmail.com>
