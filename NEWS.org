@@ -1,0 +1,4 @@
+* grapefruit 0.2 <2010-12-04 Sat>
+Add space (U+0020), to make Pango happy.
+* grapefruit 0.1 <2010-11-28 Sun>
+First release.
