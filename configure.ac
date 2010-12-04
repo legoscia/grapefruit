@@ -1,4 +1,4 @@
-AC_INIT([Grapefruit], [0.1], [], [grapefruit])
+AC_INIT([Grapefruit], [0.1], [https://github.com/legoscia/grapefruit/issues], [grapefruit])
 AM_INIT_AUTOMAKE([foreign dist-bzip2 dist-zip])
 
 AC_CHECK_PROG(has_fontforge, fontforge, yes, no)
