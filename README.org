@@ -26,6 +26,11 @@ To install the font just for one user, copy Grapefruit.ttf into
 =~/.fonts=, or some other directory listed in
 =/etc/fonts/fonts.conf=.
 
+At the time of writing, Emacs doesn't find the font automatically.
+You can add something like this to your =.emacs=:
+
+    (set-fontset-font "fontset-default" (cons (aref "🍅" 0) (aref "🍓" 0)) "Grapefruit")
+
 * Fruit assortment
 ** Unicode
 Fruit and vegetable symbols in Unicode.  A check mark means that the
